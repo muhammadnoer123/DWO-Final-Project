@@ -1,0 +1,1 @@
+<iframe name="mondrian" src="http://localhost:8080/mondrian/index.jsp" style="height:300px; width:100%; border:none; align-content:center"> </iframe>
